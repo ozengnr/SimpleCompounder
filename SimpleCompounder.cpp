@@ -1,4 +1,4 @@
-/* This is a simple compound interest calculator. */
+/* This is a compound interest calculator. */
 #include <iostream>
 #include <iomanip>
 #include <cmath>
